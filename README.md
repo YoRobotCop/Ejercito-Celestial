@@ -1,2 +1,2 @@
 # Ejercito-Celestial
-Proyecto giado y asistido por Facebook Team
+Proyecto guiado y asistido por facebook Team 
